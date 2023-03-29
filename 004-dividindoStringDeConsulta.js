@@ -10,7 +10,7 @@ const server = http.createServer((req, res) => {
         res.end(`Oi, ${queryData.name}`)
     else
         res.end('Oi, my consagrated!')
-}).listen(8000)
+}).listen(8080)
 
 
 //http://localhost:8000/?name=Pablo%20Ramon
