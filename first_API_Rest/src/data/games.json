@@ -1,0 +1,37 @@
+[
+	{
+		"id": "1",
+		"nome": "Euro Truck",
+		"Sinopse": "Travel across Europe as king of the road, a trucker who delivers important cargo across impressive distances! With dozens of cities to explore, your endurance, skill and speed will all be pushed to their limits."
+	},
+	{
+		"id": "2",
+		"nome": "Dredge",
+		"Sinopse": "DREDGE é uma aventura de pescaria para um jogador com um toque sinistro. Venda seu pescado, melhore seu barco e escave as profundezas em busca de segredos antigos. Explore um arquipélago misterioso e descubra por que certas coisas deveriam ser esquecidas."
+	},
+	{
+		"id": "3",
+		"nome": "Mortal Shell",
+		"Sinopse": "Mortal Shell é um RPG de ação que testará sua sanidade e perseverança em um mundo despedaçado. Seus oponentes não são piedosos, sua sobrevivência depende de percepção, precisão e instintos elevados. Possua guerreiros esquecidos"
+	},
+	{
+		"id": "4",
+		"nome": "New World",
+		"Sinopse": "Explore um MMO de mundo aberto emocionante e cheio de perigos e oportunidades, onde você irá forjar um novo destino na ilha sobrenatural de Aeternum."
+	},
+	{
+		"id": "5",
+		"nome": "Dead Cells",
+		"Sinopse": "Dead Cells é um rogue-lite de ação em plataforma estilo Metroidvania. Você vai explorar um castelo extenso e em constante mutação... considerando que consiga enfrentar seus guardiões em combates 2D inspirados em Dark Souls. Sem checkpoints. Mate, morra, aprenda, repita."
+	},
+	{
+		"id": "6",
+		"nome": "Dragon Ball Fighter Z",
+		"Sinopse": "DRAGON BALL FighterZ nasceu inspirado no que torna a série DRAGON BALL tão querida e famosa: lutas infinitas e espetaculares entre guerreiros poderosos."
+	},
+	{
+		"id": "7",
+		"nome": "Soulstone Survivors",
+		"Sinopse": "Enfrente os Senhores do Vazio e seus infinitos lacaios, colete suas Pedras da Alma e se torne um deus! Neste Roguelite de ação, desvende magias secretas, forge dezenas de armas, desbloqueie personagens, descubra sinergias roubadas e conquiste o poder do vazio."
+	}
+]
